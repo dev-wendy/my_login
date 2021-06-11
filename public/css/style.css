@@ -21,3 +21,7 @@ select {
 button:hover {
     background-color: gold;
 }
+
+h1, form{
+    text-align: center;
+}
